@@ -14,3 +14,9 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Updating the project.
 + Downloading & installing DirectX SDK.
 + Fixing the build errors.
+
+### 3 Building SpaceWar In Xcode ###
+
++ Introducing the Steamworks example project.
++ Applying recommended settings.
++ Running with Steam.
