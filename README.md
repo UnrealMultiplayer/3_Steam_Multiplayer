@@ -2,6 +2,10 @@
 
 Connect your games P2P over steam. This game introduces Unreal's Online Sub-System (OSS) and shows you how to use it with the Steamworks API. By the end of the section, you will be able to connect player through Steam lobbies.
 
+### 0 Introduction to Puzzle Platforms ###
+
++ We overview the section topic.
+
 ### 1 Getting The Steamworks SDK ###
 
 + Introducing Steamworks.
