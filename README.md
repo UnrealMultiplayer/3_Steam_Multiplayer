@@ -24,3 +24,9 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Introducing the Steamworks example project.
 + Applying recommended settings.
 + Running with Steam.
+
+### 4 Testing Steam Lobbies ###
+
++ Finding a testing partner.
++ Testing servers.
++ Testing lobbies.
