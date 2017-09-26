@@ -30,3 +30,11 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Finding a testing partner.
 + Testing servers.
 + Testing lobbies.
+
+### 5 The Online Sub-System ###
+
++ Importing PuzzlePlatforms.
++ Capabilities of Online Sub-Systems.
++ Including the OSS module.
++ Getting a pointer to the sub-system.
+
