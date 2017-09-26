@@ -38,3 +38,8 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Including the OSS module.
 + Getting a pointer to the sub-system.
 
+### 6 NULL Sub-System For Testing ###
+
++ Role of the NULL sub-system.
++ Configuring the NULL service.
++ Printing the current service name.
