@@ -43,3 +43,10 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Role of the NULL sub-system.
 + Configuring the NULL service.
 + Printing the current service name.
+
+### 7 Memory Management In C++ ###
+
++ Stack vs Heap.
++ Manual memory management.
++ Reference counting with `TSharedPtr`.
++ Garbage Collection of UObjects.
