@@ -56,3 +56,9 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Creating a session.
 + Asynchronous operations and delegates.
 + Creating a session on host.
+
+### 9 Destroying Online Sessions ###
+
++ Asynchronous destruction.
++ Checking if a session exists.
++ Destroy the session if we need to.
