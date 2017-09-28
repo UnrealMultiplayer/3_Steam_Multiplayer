@@ -50,3 +50,9 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Manual memory management.
 + Reference counting with `TSharedPtr`.
 + Garbage Collection of UObjects.
+
+### 8 Creating Online Sessions ###
+
++ Creating a session.
++ Asynchronous operations and delegates.
++ Creating a session on host.
