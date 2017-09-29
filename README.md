@@ -62,3 +62,8 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Asynchronous destruction.
 + Checking if a session exists.
 + Destroy the session if we need to.
+
+### 10 Finding Online Sessions ###
+
++ `FindSessions` and `TShareRef`.
++ Handling `OnFindSessionsCompleteDelegates`.
