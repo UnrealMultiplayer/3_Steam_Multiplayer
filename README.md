@@ -67,3 +67,9 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 
 + `FindSessions` and `TShareRef`.
 + Handling `OnFindSessionsCompleteDelegates`.
+
+### 11 Query Parameters & Session Settings ###
+
++ Configuring Session Settings.
++ Adding query parameters.
++ Iterating over a `TArray`
