@@ -73,3 +73,9 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Configuring Session Settings.
 + Adding query parameters.
 + Iterating over a `TArray`
+
+### 12 Lists Of Widgets With ScrollBox ###
+
++ Introduction to the `ScrollBox`.
++ Creating a row widget.
++ Add rows in C++.
