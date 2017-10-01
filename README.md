@@ -79,3 +79,10 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Introduction to the `ScrollBox`.
 + Creating a row widget.
 + Add rows in C++.
+
+### 13 Populating The Server List ###
+
++ Expose the text property.
++ Setting a server list from GameInstance.
++ Clearing the previous list.
++ Requesting a refresh.
