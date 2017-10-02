@@ -93,3 +93,10 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Setup the `UServerRow`.
 + Adding a `UButton`.
 + Set the selected index.
+
+### 15 Joining A Session ###
+
++ Passing the index to `GameInstance`.
++ How to `JoinSession`.
++ Handling `OnJoinSessionComplete`.
++ Getting the platform connect string.
