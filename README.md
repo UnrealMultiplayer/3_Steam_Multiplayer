@@ -86,3 +86,10 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Setting a server list from GameInstance.
 + Clearing the previous list.
 + Requesting a refresh.
+
+### 14 Selecting A Server ###
+
++ Using `TOptional` values.
++ Setup the `UServerRow`.
++ Adding a `UButton`.
++ Set the selected index.
