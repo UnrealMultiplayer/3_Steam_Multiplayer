@@ -144,8 +144,8 @@ void UPuzzlePlatformsGameInstance::RefreshServerList()
 	SessionSearch = MakeShareable(new FOnlineSessionSearch());
 	if (SessionSearch.IsValid())
 	{
-		SessionSearch->MaxSearchResults = 10;
-		SessionSearch->TimeoutInSeconds = 10;
+		ServerSearch->MaxSearchResults = 100;
+		ServerSearch->TimeoutInSeconds = 100;
 		SessionSearch->bIsLanQuery = false;
 		SessionSearch->QuerySettings.Set(SEARCH_PRESENCE, true, EOnlineComparisonOp::Equals);
 		UE_LOG(LogTemp, Warning, TEXT("Starting Find Session"));
