@@ -107,3 +107,9 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Compiling with the steam module.
 + Configuring the `DefaultEngine.ini`.
 + Reading the verbose logs.
+
+### 17 "Presence" For Steam Lobbies ###
+
++ Enabling presence for the server.
++ Enabling presence for search.
++ Debugging our connection.
