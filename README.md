@@ -100,3 +100,10 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + How to `JoinSession`.
 + Handling `OnJoinSessionComplete`.
 + Getting the platform connect string.
+
+### 16 Enabling The Steam OSS ###
+
++ Enabling the steam plugin.
++ Compiling with the steam module.
++ Configuring the `DefaultEngine.ini`.
++ Reading the verbose logs.
