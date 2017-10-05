@@ -126,3 +126,9 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Creating a struct.
 + Populating the struct.
 + Updating the UI. 
+
+### 20 Debugging The Search Results ###
+
++ Disabling Steam fully.
++ Getting the available connections.
++ Padding the text properly.
