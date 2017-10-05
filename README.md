@@ -138,3 +138,8 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + How to set custom settings.
 + How to retrieve custom settings.
 + Setting the server name.
+
+### 22 Continued: Custom Session Settings ###
+
++ We finish the challenge solution.
++ We make our menu pretty again.
