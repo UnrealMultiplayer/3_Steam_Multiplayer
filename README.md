@@ -119,3 +119,10 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Update text colour on hover.
 + Update all rows when `Selected`.
 + Select colors for `Hovered` and `Selected`.
+
+### 19 Displaying Search Result Properties ###
+
++ Disabling Steam for testing.
++ Creating a struct.
++ Populating the struct.
++ Updating the UI. 
