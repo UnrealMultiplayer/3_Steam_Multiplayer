@@ -132,3 +132,9 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Disabling Steam fully.
 + Getting the available connections.
 + Padding the text properly.
+
+### 21 Custom Session Settings ###
+
++ How to set custom settings.
++ How to retrieve custom settings.
++ Setting the server name.
