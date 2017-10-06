@@ -143,3 +143,10 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 
 + We finish the challenge solution.
 + We make our menu pretty again.
+
+### 23 GameMode And Multiplayer ###
+
++ Joining into the lobby.
++ Creating a GameMode override.
++ Handling `PostLogin`.
++ Handle `Logout` and count players.
