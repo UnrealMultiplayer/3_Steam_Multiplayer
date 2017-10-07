@@ -150,3 +150,11 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + Creating a GameMode override.
 + Handling `PostLogin`.
 + Handle `Logout` and count players.
+
+### 24 Enabling Seamless Travel ###
+
++ Ensuring we call `Super`.
++ Traveling to the game.
++ What is non-seamless travel?
++ Enabling seamless travel.
++ The transition map.
