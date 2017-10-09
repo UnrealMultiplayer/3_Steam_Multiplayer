@@ -166,3 +166,9 @@ Connect your games P2P over steam. This game introduces Unreal's Online Sub-Syst
 + What code should be called?
 + Attaching and debugging.
 + Fixing the NULL subsystem bug.
+
+### 26 Starting A Session ###
+
++ Update maximum number of players.
++ Adding a session start timeout.
++ Starting the session.
